@@ -6,7 +6,7 @@ A resolução será composta de um *Notebook Jupyter* para modelar e simular os 
 
 Os integrantes desse grupo são:
 
-- André Vitor Cadena de Oliveira ([@AndreCadena](https://github.com/AndreCadena))
+- André Victor Oliveira Cadena ([@AndreCadena](https://github.com/AndreCadena))
 - Fábio Augusto Almeida Marçal ([@Fabiom02](https://github.com/Fabiom02))
 - Gabriel Nazário Gonçalves ([@GNazarioG](https://github.com/GNazarioG))
 - Lorenzo Carrera de Oliveira ([@loolirer](https://github.com/loolirer))
